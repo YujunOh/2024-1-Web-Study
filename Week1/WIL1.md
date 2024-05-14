@@ -1,4 +1,6 @@
 #### 1주차 웹 개발의 역사
+학습목표) 
+
 웹 개발의 역사와 현재 React의 환경에 대해 설명할 수 있다. (이번 주)
 
 HTML / CSS / JavaScript가 무엇인지 그 역할을 알 수 있다.
@@ -8,6 +10,7 @@ HTML / CSS / JavaScript가 무엇인지 그 역할을 알 수 있다.
 웹을 내 개발 환경에서 띄울 수 있다.
 
 기본적인 웹 통신을 할 수 있다.
+<br><br>
 
 1. 웹의 역사
    
@@ -52,6 +55,7 @@ HTML / CSS / JavaScript가 무엇인지 그 역할을 알 수 있다.
 
     Facebook은 React를 개발하기 시작, 상태(state)의 개념을 활용해 상태에 따른 UI를 선언적으로 구현
     JSX 문법을 활용하여 JavaScript 코드의 규모를 축소
+
 
 2. React의 등장
    
